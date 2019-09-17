@@ -16,6 +16,7 @@ namespace SampleCoreWebApplication
     {
         public Startup(IConfiguration configuration)
         {
+            //Some commented Code
             Configuration = configuration;
         }
       
